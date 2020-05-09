@@ -55,7 +55,8 @@
   <ItemGroup>
      <Compile Include="Assets\Rope.cs" />
      <Compile Include="Assets\RopeBridge.cs" />
-     <Compile Include="Assets\SlingShot.cs" />
+     <Compile Include="Assets\SkiLift.cs" />
+     <Compile Include="Assets\SlingShotMouse.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Shopify/Youtube/Verlet-Rope-Unity-master/Verlet-Rope-Unity-master/Tutorial Verlet Rope/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
